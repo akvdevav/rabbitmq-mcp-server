@@ -1,0 +1,7 @@
+mcp
+fastmcp
+python-dotenv
+requests
+gradio
+ollama
+pika
